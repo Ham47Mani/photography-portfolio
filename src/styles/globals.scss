@@ -27,3 +27,14 @@
   }
 }
 // ================== End Masonry Layout ==================
+
+// ======================= Start Scrollbar Custom =======================
+@layer components {
+  ::-webkit-scrollbar {
+    @apply w-2 bg-stone-900
+  }
+  ::-webkit-scrollbar-thumb {
+    @apply bg-myRed/40 rounded-3xl
+  }
+}
+// ======================= End Scrollbar Custom =======================

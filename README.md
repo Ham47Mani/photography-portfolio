@@ -23,7 +23,7 @@
   <p align="center">
     Photography is a Lading page, i make this simple lading page for a photograpy porfolio as apractice for nextjs & tailwindcss use Unsplash Api.
     <br />
-    <a href="https://hb-photography.vercel.app/">View Demo</a>
+    <a href="https://hb-photography-portfolio.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/Ham47Mani/photography-portfolio/issues">Report Bug</a>
     ·
