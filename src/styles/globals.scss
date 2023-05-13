@@ -1,0 +1,29 @@
+// ================== Start Add TailwindCss ==================
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+// ================== End Add TailwindCss ==================
+
+// ================== Start Main Rules ==================
+@layer components {
+  * { @apply outline-none }
+
+  body {
+    @apply bg-black text-white bg-[url('/imgs/photography-bg.jpeg')] bg-cover bg-center
+  }
+
+  // ============ Start Tabs ============
+  .tabs button {
+    @apply ui-selected:font-semibold ui-selected:border px-4 py-1 rounded-xl ui-selected:bg-myRed border-none
+    text-gray-300 capitalize
+  }
+}
+// ================== End Main Rules ==================
+
+// ================== Start Masonry Layout ==================
+@layer components {
+  .photography-grid-col > * {
+    @apply mb-4 
+  }
+}
+// ================== End Masonry Layout ==================

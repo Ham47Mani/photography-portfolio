@@ -1,38 +1,82 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<!--
+ * Template Name      : Photography
+ * Template Version   : V 1.0.0
+ * Template Url       : .....................
+ * Language           : HTML, SASS, Javascript, Nextjs
+ * API                : Unsplash Api
+ * Contact Me : Skaype   :- Boudraa.Hammani
+ *				      Facebook :- Ham mani
+ *				      Email    :- Ham47mani@gmail.com
+-->
 
-## Getting Started
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://ham47mani.github.io/photography-portfolio/">
+    <img src="public/imgs/logoRed.png" alt="Logo" width="80" height="80">
+  </a>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+  <h1 align="center">Photography</h1>
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+  <p align="center">
+    Photography is a Lading page, i make this simple lading page for a photograpy porfolio as apractice for nextjs & tailwindcss use Unsplash Api.
+    <br />
+    <a href="https://hb-photography.vercel.app/">View Demo</a>
+    ·
+    <a href="https://github.com/Ham47Mani/photography-portfolio/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Ham47Mani/photography-portfolio/issues">Request Feature</a>
+  </p>
+</p>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+<br />
+<br />
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<img src="preview.png" alt="Preview" width="100%">
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+<br />
+<br />
+<br />
 
-To learn more about Next.js, take a look at the following resources:
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#CSS & JS Library">CSS & JS library</a></li>
+      </ul>
+    </li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+<!-- ABOUT THE PROJECT -->
+# About The Project
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<b>Photography</b> is a Lading page, i make this simple lading page for a photograpy porfolio as apractice for nextjs & tailwindcss use Unsplash Api.
+
+## Built With
+
+I use i this template :
+
+* HTML
+* SASS (CSS)
+* Javascript
+* Nextjs
+* TailwindCss
+* Unsplash API
+
+
+<!-- CONTACT -->
+## Contact
+
+Hammani BOUDRAA - [@HAM47MANI](https://twitter.com/Ham7Mani) - Ham47mani@gmail.com
